@@ -11,3 +11,4 @@ Avaliação 2 - Processo de Gerência de configuração
 
 4.3 -	A Operação básica de Envio é Commit ou Check-in e de Recebimento é Check-out.
 
+4.4 -	Analisar projeto, Implementação, Design, Teste de sistema e aceitação, Revisar modificações e Entregar ao cliente.
