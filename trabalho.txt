@@ -9,3 +9,5 @@ Avaliação 2 - Processo de Gerência de configuração
 	Sistema de Controle de Versão Centralizado - Um único servidor central que contém todos os arquivos versionados e vários clientes que podem resgatar os arquivos do servidor. Exemplo: Subversion.
 	Sistema de Controle de Versão Distribuído - Se um servidor falha, qualquer um dos repositórios dos usuários podem ser copiados de volta para o servidor para restaurá-lo. Cada resgate é um backup completo de todos os dados. Exemplo: Mercurial e Git.
 
+4.3 -	A Operação básica de Envio é Commit ou Check-in e de Recebimento é Check-out.
+
