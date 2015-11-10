@@ -1,0 +1,14 @@
+Alunos: Guilherme e Willian
+
+Avaliação 2 - Processo de Gerência de configuração
+
+
+4.1 - 	O controle de versão é um sistema que registra as mudanças feitas em um arquivo ou um conjunto de arquivos ao longo do tempo de forma que você possa recuperar versões específicas. Deve ser utilizado quando há a necessidade de controle do histórico do desenvolvimento, quando várias pessoas trabalharem no mesmo projeto sem gerar problemas de conflito, necessidade de resgatar versões anteriores do documento e trabalhar em documentos paralelos sem haver interferência.
+
+4.2 - 	Sistema de Controle de Versão Local - Copiar os documentos em diretórios diferentes.
+	Sistema de Controle de Versão Centralizado - Um único servidor central que contém todos os arquivos versionados e vários clientes que podem resgatar os arquivos do servidor. Exemplo: Subversion.
+	Sistema de Controle de Versão Distribuído - Se um servidor falha, qualquer um dos repositórios dos usuários podem ser copiados de volta para o servidor para restaurá-lo. Cada resgate é um backup completo de todos os dados. Exemplo: Mercurial e Git.
+
+4.3 -	A Operação básica de Envio é Commit ou Check-in e de Recebimento é Check-out.
+
+4.4 -	Analisar projeto, Implementação, Design, Teste de sistema e aceitação, Revisar modificações e Entregar ao cliente.
